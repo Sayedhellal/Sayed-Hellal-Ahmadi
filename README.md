@@ -3,7 +3,7 @@ Hi There
 
 # Sayed Hellal Ahmadi
 
-**Detail-oriented Business Analyst** with seven years of experience in data collection and analysis, specializing in the mining and petroleum industry. Proven ability to communicate insights effectively and collaborate with cross-functional teams to drive business growth. Committed to leveraging data-driven insights to inform decision-making and enhance operational efficiency.
+**Detail-oriented Business Analyst** with expertise in Excel, SQL, Tableau, and Power BI. My seven years of working experience in collecting data and analyzing data, particularly within the challenging environment of the Ministry of Mining and Petroleum in Afghanistan. Attention to detail and quick learning abilities have consistently led to outstanding achievements. Adept at clear communication, collaborating effectively in teams, and efficiently collecting data, cleaning data, and analyzing data.
 
 ## Skills
 
