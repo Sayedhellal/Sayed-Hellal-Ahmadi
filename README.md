@@ -27,6 +27,8 @@ Hi There
 
 **TripleTen Bootcamp**
 * BI Analysis Bootcamp
+* Kabul University of Afghanistan | B.S in Chemistry Engineering
+* Tolo-e Aftab University of Afghanistan | BCS in Networking
 
 ##  About Me
 
